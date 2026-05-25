@@ -1,0 +1,25 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# YOLO / ML files
+runs/
+*.pt
+*.onnx
+
+# OS files
+.DS_Store
